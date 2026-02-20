@@ -3,7 +3,7 @@
 # Hi, I'm Maegan!
 My name is Maegan Lucas and I am a Software Engineer at Honeywell! 
 
-I am passionate about UI/UX design and developing UI features. In my current position, I take features from requirements through design and developement. I am like a Software Engineer and a UI/UX Designer rolled into one!
+I am passionate about UI/UX design and developing UI features. In my current position, I take features from requirements through design and development. I am like a Software Engineer and a UI/UX Designer rolled into one!
 
 Reach out!<br />
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&link=www.linkedin.com/in/maegan-lucas)](www.linkedin.com/in/maegan-lucas)
